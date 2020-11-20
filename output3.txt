@@ -1,0 +1,17 @@
+You have
+8 Diamonds 8
+Q  Clubs 10
+18
+Would you like to hit? y/n?
+...................
+You have
+8 Diamonds 8
+Q  Clubs 10
+18
+...................
+Dealer has - 
+K  Diamonds 10
+7 Hearts 7
+17
+Congratulations, You win
+Do you want to play again? y/n

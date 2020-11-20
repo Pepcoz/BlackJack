@@ -1,0 +1,38 @@
+You have
+Q  Diamonds 10
+K  Diamonds 10
+20
+Would you like to hit? y/n?
+...................
+You have
+Q  Diamonds 10
+K  Diamonds 10
+5 Diamonds 5
+25
+...................
+Dealer has - 
+6 Hearts 6
+A  Diamonds 1
+J  Diamonds 10
+17
+Nice try,You lose
+Do you want to play again? y/n
+You have
+Q  Diamonds 10
+K  Diamonds 10
+20
+Would you like to hit? y/n?
+...................
+You have
+Q  Diamonds 10
+K  Diamonds 10
+5 Diamonds 5
+25
+...................
+Dealer has - 
+6 Hearts 6
+A  Diamonds 1
+J  Diamonds 10
+17
+Nice try,You lose
+Do you want to play again? y/n

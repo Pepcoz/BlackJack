@@ -1,0 +1,26 @@
+You have
+5 Spades 5
+6 Spades 6
+11
+Would you like to hit? y/n?
+...................
+You have
+5 Spades 5
+6 Spades 6
+10 Hearts 10
+21
+Would you like to hit again? y/n
+...................
+You have - 
+5 Spades 5
+6 Spades 6
+10 Hearts 10
+21
+...................
+Dealer has - 
+3 Diamonds 3
+5 Diamonds 5
+J  Clubs 10
+18
+Congratulations, You win
+Do you want to play again? y/n
